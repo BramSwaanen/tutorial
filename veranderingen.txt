@@ -1,3 +1,6 @@
 Hello, this is text.
+<<<<<<< HEAD
 
 Hello, this is new text.
+=======
+>>>>>>> parent of e57b12d (Update veranderingen.txt)
